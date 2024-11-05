@@ -2,8 +2,12 @@ import speech_recognition as sr
 import pyttsx3
 
 recognizer = sr.Recognizer()
-engine = pyttsx3.init()
+voice = pyttsx3.init()
 
+
+def speakNow(command):
+    voice.say(command)
+    voice.runAndWait()
 
 # Speech recognition from microphone
 with sr.Microphone() as source:
@@ -20,3 +24,5 @@ except sr.UnknownValueError:
     print("Could not understand audio")
 except sr.RequestError:
     print("Could not request results")
+
+speakNow(text)
