@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adf3d2fa-097f-473d-9149-471ebb29f07e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ImprovingSR/ImprovingSR01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImprovingSR/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/SpeechToWeb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/SpeechRecong.py" beforeDir="false" afterPath="$PROJECT_DIR$/App/SpeechRecong.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImprovingSR/ImprovingSR02.py" beforeDir="false" afterPath="$PROJECT_DIR$/ImprovingSR/ImprovingSR02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
